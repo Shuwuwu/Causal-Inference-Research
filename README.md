@@ -38,7 +38,7 @@ This repository contains the research analysis on the National Supported Work (N
 
 - **Conclusion**:
   - The analysis suggests that the NSW job-training program had a positive and statistically significant effect on earnings.
-  - Wide confidence intervals indicate substantial uncertainty; further research could enhance understanding of the program’s long-term impact.
+  - Further research could enhance understanding of the program’s long-term impact.
 
 - **Future Work**:
   - Address potential unobserved confounders.
