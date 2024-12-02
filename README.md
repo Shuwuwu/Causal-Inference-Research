@@ -46,3 +46,5 @@ This repository contains the research analysis on the National Supported Work (N
   - Conduct long-term impact analysis.
 
 For detailed code and data analysis, please refer to the provided scripts and documentation in this repository.
+
+Publish on Margin journal: https://studc.math.ca/notes-from-the-margin/ 
